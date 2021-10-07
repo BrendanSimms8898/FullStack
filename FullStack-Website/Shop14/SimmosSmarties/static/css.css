@@ -1,0 +1,112 @@
+body {
+    background-color: darkslategrey;
+    color: azure;
+    font-size: 1.1em;
+}
+.social-icons {
+  text-align: center;
+}
+
+.social-icons li {
+  display: inline-block;
+  list-style-type: none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+}
+
+.social-icons li a {
+  border-bottom: none;
+}
+
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
+}
+
+.navbrand {
+  font-size: 1.1em;
+  color: azure;
+}
+.header-content {
+  text-align: center;
+}
+.header {
+  font-family: 'Roboto';
+  font-size: 50px;
+  color: #F8FFAF;
+}
+
+.subheader {
+ font-family: 'Roboto';
+  font-size: 30px;
+ color: #D9F5AE;
+}
+
+.social-media-footer {
+margin-right: auto;
+font-size: 1.6em;
+}
+
+.freethesmartie {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-size: 1.3em;
+}
+
+.fight-the-power {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 350px;
+}
+
+.smartiesforall {
+    font-size: 1.7em;
+    text-align: center;
+    color: #D9F5AE;
+}
+
+.businessgoal {
+font-size: 1.3em;
+text-align: center;
+}
+
+#content {
+  font-family: 'Roboto', sans-serif;
+  font-size: 7.5px;
+}
+
+#myInput {
+  width: 10%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  margin-left: 90%;
+}
+
+#searchlist {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+#searchlist li a {
+  border: 0.75px solid #ddd;
+  margin-top: -1px;
+  background-color: #f6f6f6;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  color: black;
+  display: inline-grid;
+  align-content: right;
+}
+
+#searchlist li a:hover:not(.header) {
+  background-color: #eee;
+}
