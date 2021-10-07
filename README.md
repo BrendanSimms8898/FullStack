@@ -5,4 +5,4 @@ Can be ran by using Conda to create a Python 2.7 enviroment and installing djang
 
 Usage:
 
-Python manage.py runserver
+Python manage.py runserver (must be done within the SimmosSmarties Folder)
